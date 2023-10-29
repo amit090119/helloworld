@@ -3,3 +3,4 @@
 "this is new commit"
 
 "hi"
+"new line added"
